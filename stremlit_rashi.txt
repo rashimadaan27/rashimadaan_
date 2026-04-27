@@ -1,0 +1,6 @@
+import stremlit as st 
+#title of app 
+st.title("my first stremlit app")
+
+#adding text 
+st.write("hello! creating a simple web application using stremlit library.")
